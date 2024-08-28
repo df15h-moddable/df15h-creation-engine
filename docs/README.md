@@ -1,6 +1,6 @@
 # How to Mod BGS CE
 
-Trying to make sense (for myself) of the deep, dark, tangled jungle that is the (mostly undocumented) world of Creation Engine modding -- not only end-user configuration, but also how to create various kinds of mods (CK, Papyrus, C++) from scratch.
+Trying to make sense (for myself) of the deep, dark, tangled jungle that is the world of Creation Engine modding -- not only end-user configuration, but also how to create various kinds of mods (CK, Papyrus, C++) from scratch.
 
 - BGS = Bethesda Game Studios
 - CE = Creation Engine
