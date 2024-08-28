@@ -35,6 +35,6 @@ As a starting point for any new project, we need to create an empty plugin.
 5. Select the two masters and our ESP. Select our ESP and "Set as Active File".
 6. Click "OK" to load our project.
 
-## Resources
+## References
 
 1. [Getting Started](https://www.creationkit.com/index.php?title=Category:Getting_Started) @ creationkit.
