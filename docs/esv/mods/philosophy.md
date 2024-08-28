@@ -12,7 +12,7 @@ Some mod authors (e.g. GGUNIT) are very diligent about patching their mods (and 
 the fact that these mods _need_ many patches make it a _certainty_
 that a subset of the mods we want to use _will not_ be covered.
 Sometimes this is a minor annoyance (e.g. "Lux" only edits interiors).
-Sometimes this is a major annoyance (e.g. "Lux Via" edits landscapes).
+Sometimes this presents major incompatibilities (e.g. "Lux Via" edits landscapes).
 
 Therefore, when building a large load order ...
 
