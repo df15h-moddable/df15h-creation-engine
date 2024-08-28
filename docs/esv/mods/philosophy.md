@@ -3,7 +3,7 @@
 
 As a rule ...
 
-- small load orders can more safely tinker with extravagant overhauls.
+- small load orders can more safely tinker with extravagant all-in-one overhauls.
 - large load orders require a greater level of compatibility planning.
 
 Therefore, when building a large load order ...
