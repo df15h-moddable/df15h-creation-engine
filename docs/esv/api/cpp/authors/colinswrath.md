@@ -1,5 +1,9 @@
 # colinswrath
 
+- Active on Skyrim SE since 2018.
+- Author of SunHelm Survival and Needs.
+- Creates SKSE plugins for the Simonrim team.
+
 ## Survival Mode Improved
 
 - [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/78244) @ nexusmods.
