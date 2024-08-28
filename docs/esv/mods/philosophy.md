@@ -3,8 +3,10 @@
 
 As a rule ...
 
-- small load orders can more safely tinker with extravagant all-in-one overhauls.
-- large load orders require a greater level of compatibility planning.
+- Small load orders can more safely tinker with extravagant all-in-one overhauls.
+- Large load orders require a greater level of compatibility planning.
+- The safest path is an "enhanced vanilla" approach.
+- Any other path is a _guarantee_ we will be playing whack-a-mole _forever_.
 
 Therefore, when building a large load order ...
 
