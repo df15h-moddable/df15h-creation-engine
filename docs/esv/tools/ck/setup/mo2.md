@@ -1,3 +1,4 @@
+OUT-OF-DATE (PROBABLY).
 
 Creation Kit should be added automatically to MO2's executables menu. If not, add it manually. [1]
 
