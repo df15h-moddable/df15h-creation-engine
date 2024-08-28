@@ -1,3 +1,4 @@
+OUT-OF-DATE (PROBABLY).
 
 Install the Creation Kit into your Skyrim Special Edition folder. [3]
 
