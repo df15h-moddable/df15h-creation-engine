@@ -1,0 +1,5 @@
+- [GELUXRUM](https://www.nexusmods.com/fallout4/users/123422098) @ nexusmods.
+- [Friendly Fire](https://www.nexusmods.com/fallout4/mods/74000) @ nexusmods.
+- [FriendlyFire](https://github.com/GELUXRUM/FriendlyFire) @ github.
+- [No Screenshot Messages](https://www.nexusmods.com/fallout4/mods/74466) @ nexusmods.
+- [NoScreenshotMessages](https://github.com/GELUXRUM/NoScreenshotMessages) @ github.
