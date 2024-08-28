@@ -10,7 +10,7 @@ Real name Kara. USA.
 
 Exclusively mods ESV.
 
-Known for ...
+Notable ...
 
 - aMidianBorn Book of Silence port from Oldrim
 - aMidianBorn Content Addon
