@@ -1,5 +1,9 @@
 # aers
 
+- Created a number of essential SKSE mods between 2018-2020.
+- Most have been superceded by updated implementations.
+- "SSE Engine Fixes" remains essential in 2024.
+
 ## SSE Engine Fixes
 
 - [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) @ nexusmods.
