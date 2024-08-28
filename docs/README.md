@@ -22,7 +22,7 @@ However, there are subtle differences between each iteration ...
 Creation Engine modding has many facets and many specializations.
 At the highest level, the materials in this repo are organized around the following layers ...
 
-1. Creation Kit : Bethesda's drag-n-drop integrated development environment.
+1. Creation Kit (ck) : Bethesda's drag-n-drop integrated development environment.
 2. xEdit : A community tool for directly editing the raw form data saved by the Creation Kit.
-3. Papyrus : Bethesda's proprietary scripting language.
-4. Script Extender : A community tool that both _extends_ Bethesda's Papyrus API (hence the name) _and_ adds an API for low-level C++ plugins.
+3. Papyrus (psc) : Bethesda's proprietary scripting language.
+4. Script Extender (cpp) : A community tool that both _extends_ Bethesda's Papyrus API (hence the name) _and_ adds an API for low-level C++ plugins.
