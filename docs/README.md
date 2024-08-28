@@ -16,3 +16,13 @@ However, there are subtle differences between each iteration ...
 - esv : Elder Scrolls V Skyrim
 - fo4 : Fallout 4
 - sf : Starfield
+
+## Orientation
+
+Creation Engine modding has many facets and many specializations.
+At the highest level, our materials are organized around the following layers ...
+
+1. Creation Kit : Bethesda's drag-n-drop integrated development environment.
+2. xEdit : A community tool for directly editing the raw form data saved by the Creation Kit.
+3. Papyrus : Bethesda's proprietary scripting language.
+4. Script Extender : A community tool that both _extends_ Bethesda's Papyrus API (hence the name) _and_ adds an API for low-level C++ plugins.
