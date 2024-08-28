@@ -13,6 +13,7 @@ the fact that these mods _need_ many patches make it a _certainty_
 that a subset of the mods we want to use _will not_ be covered.
 Sometimes this is a minor annoyance (e.g. "Lux" only edits interiors).
 Sometimes this presents major incompatibilities (e.g. "Lux Via" edits landscapes).
+We may need to skip some great mods for the sake of compatibility.
 
 Therefore, when building a large load order ...
 
