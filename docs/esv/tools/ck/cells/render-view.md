@@ -34,3 +34,11 @@ Position an object ...
 - W: Toggle rotation control handles on selected object.
 - ctrl-Q: Toggle off/on snap-to-grid, for more fine-grained control.
 - 1: Hide/Show the selected object. Useful when large effects boxes are obstructing object manipulation.
+
+## References
+
+1. [Keyboard Mapping](https://ck.uesp.net/wiki/Creation_Kit_Keyboard_Mapping) @ ck.uesp.
+2. [Render Window](https://ck.uesp.net/w/index.php?title=Render_Window) @ ck.uesp.
+3. [Basics Lesson #1](https://tesalliance.org/forums/index.php?/topic/6838-ck-basics-lesson-1/) @ tesalliance.
+4. [Cheat Sheets](https://github.com/ciathyza/modding-guides/tree/master/Cheat%20Sheets) by ciathyza @ github.
+
