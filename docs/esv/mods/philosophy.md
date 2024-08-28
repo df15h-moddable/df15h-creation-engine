@@ -14,6 +14,6 @@ Therefore, when building a large load order ...
 - Do not use flora overhauls that place grass outside vanilla bounds.
 - Use a vanilla flora enhancer (e.g. "Veydosebrom Regions").
 - Do not use tree overhauls that place new trees.
-- Use tree overhauls that enhance existing trees (e.g. "Happy Little Trees").
+- Use a vanilla tree enhancer (e.g. "Happy Little Trees").
 - Do not use settlement replacers (e.g. "Cities of the North").
-- Use settlement enhancers (e.g. "JK's Skyrim").
+- Use vanilla settlement enhancers (e.g. "JK's Skyrim").
