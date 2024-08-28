@@ -1,5 +1,7 @@
 # DaymareOn
 
+- Inherited "HDT-SMP" (Skinned Mesh Physics) from HydrogensaysHDT via aers.
+
 ## FSMP
 
 - [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) @ nexusmods.
