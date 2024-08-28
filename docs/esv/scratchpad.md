@@ -6,3 +6,7 @@
 - [Persistent References](https://www.nexusmods.com/skyrimspecialedition/mods/63701) by Janquel @ nexusmods.
 - [Mesh Partitioning](https://www.nexusmods.com/skyrimspecialedition/mods/47109) by Janquel @ nexusmods.
 - [Northern Experience Skyrim Modding Guide](https://www.nexusmods.com/skyrimspecialedition/mods/23894?tab=articles) by mnikjom @ nexusmods.
+- [Brief Walkthrough of Conflict Resolution and 3D Space Patching](https://www.nexusmods.com/skyrimspecialedition/mods/37651) by Janquel @ nexusmods.
+- [Persistent Reference and Object Mover](https://www.nexusmods.com/skyrimspecialedition/mods/63701) by Janquel @ nexusmods.
+- [Brief Walkthrough of Mesh Partitioning](https://www.nexusmods.com/skyrimspecialedition/mods/47109) by Janquel @ nexusmods.
+
