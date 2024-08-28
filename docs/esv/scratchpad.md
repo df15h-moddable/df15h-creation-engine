@@ -9,4 +9,9 @@
 - [Brief Walkthrough of Conflict Resolution and 3D Space Patching](https://www.nexusmods.com/skyrimspecialedition/mods/37651) by Janquel @ nexusmods.
 - [Persistent Reference and Object Mover](https://www.nexusmods.com/skyrimspecialedition/mods/63701) by Janquel @ nexusmods.
 - [Brief Walkthrough of Mesh Partitioning](https://www.nexusmods.com/skyrimspecialedition/mods/47109) by Janquel @ nexusmods.
-
+- https://www.reddit.com/r/skyrimmods/comments/jrfr6l/tutorial_how_to_build_a_barebones_skse_plugin/
+- https://gitlab.com/colorglass/commonlibsse-sample-plugin
+- https://www.youtube.com/watch?v=FLRhsrQ8mqw&t=2s
+- https://github.com/morcSkyrim/SkyrimSE/wiki
+- https://github.com/gottyduke/PluginTutorialCN?tab=readme-ov-file
+- https://skyrim.dev/skse/first-plugin
