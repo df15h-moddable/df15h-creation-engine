@@ -1,0 +1,17 @@
+
+- El Ha, 2019: [Merging Mods](https://www.nexusmods.com/fallout4/mods/36998)
+- El Ha, 2020: [Creating LOD](https://www.nexusmods.com/fallout4/mods/47183)
+- El Ha, 2019: [Creating Custom Meshes using Static Collections](https://www.nexusmods.com/fallout4/mods/37329)
+- El Ha, 2019: [Custom Snap Points (For Settlement Objects)](https://www.nexusmods.com/fallout4/mods/39305)
+- El Ha, 2019: [Creating a Custom Perk Magazine](https://www.nexusmods.com/fallout4/mods/36800)
+- El Ha, 2019: [Simple Retexturing](https://www.nexusmods.com/fallout4/mods/37112)
+- El Ha, 2019: [Creating Custom Settlements](https://www.nexusmods.com/fallout4/mods/39353)
+- Ethreon: [Tutorials](https://www.nexusmods.com/fallout4/mods/10112)
+- Kinggath, 2020: [Bethesda Mod School Resources](https://www.nexusmods.com/fallout4/mods/38669)
+- [Leveled List Injection Toolbox](https://www.nexusmods.com/fallout4/mods/17782) by a_blind_man 2016
+- [Dynamic Leveled List Injection Script Resource](https://www.nexusmods.com/fallout4/mods/57006) by RedMetalShield 2022
+- [nVidia DDS Tool and NifScope Settings](https://www.nexusmods.com/fallout4/mods/6936) by Justin Dewey 2015
+- https://www.nexusmods.com/fallout4/mods/37483
+- https://www.nexusmods.com/fallout4/mods/18785
+- https://www.nexusmods.com/fallout4/mods/48224
+- https://www.nexusmods.com/fallout4/mods/10763
