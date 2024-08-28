@@ -1,4 +1,4 @@
-# powerof3
+# powerofthree
 
 ## References
 
