@@ -1,6 +1,6 @@
 # DaymareOn
 
-- Inherited "HDT-SMP" (Skinned Mesh Physics) from HydrogensaysHDT via aers.
+- Inherited "HDT-SMP" (Skinned Mesh Physics) from HydrogensaysHDT (via aers).
 
 ## FSMP
 
