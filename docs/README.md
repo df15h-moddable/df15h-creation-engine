@@ -17,8 +17,6 @@ However, there are subtle differences between each iteration ...
 - fo4 : Fallout 4
 - sf : Starfield
 
-## Orientation
-
 Creation Engine modding has many facets and many specializations.
 At the highest level, the materials in this repo are organized around the following layers ...
 
