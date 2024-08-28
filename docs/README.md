@@ -24,5 +24,5 @@ At the highest level, the materials in this repo are organized around the follow
 
 1. Creation Kit (ck) : Bethesda's drag-n-drop integrated development environment.
 2. xEdit : A community tool for directly editing the raw form data saved by the Creation Kit.
-3. Papyrus (psc) : Bethesda's proprietary scripting language.
+3. Papyrus (psc) : Bethesda's proprietary scripting API.
 4. Script Extender (cpp) : A community runtime that both _extends_ Bethesda's Papyrus API (hence the name) _and_ adds an API for low-level C++ plugins.
