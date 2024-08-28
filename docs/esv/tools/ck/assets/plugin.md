@@ -38,3 +38,4 @@ As a starting point for any new project, we need to create an empty plugin.
 ## References
 
 1. [Getting Started](https://www.creationkit.com/index.php?title=Category:Getting_Started) @ creationkit.
+2. [How to Convert ESP To ESL with the Creation Kit](https://www.nexusmods.com/fallout4/mods/43614)
