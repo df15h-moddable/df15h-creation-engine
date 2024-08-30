@@ -17,3 +17,7 @@ Notable authors @ nexusmods ...
 
 - [4thUnknown](https://next.nexusmods.com/profile/4thUnknown/mods?gameId=1704)
 - [Pulcharmsolis](https://next.nexusmods.com/profile/Pulcharmsolis/mods?gameId=1704)
+
+## Sound
+
+- [Clofas](https://next.nexusmods.com/profile/Clofas/mods?gameId=1704)
