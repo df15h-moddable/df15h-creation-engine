@@ -2,7 +2,7 @@
 
 ## Compatibility
 
-Not compatible, or redundant.
+Not compatible and/or redundant.
 
 - Baka ScrapHeap
 - Disk Cahe Enabler
