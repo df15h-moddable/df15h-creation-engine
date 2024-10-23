@@ -4,7 +4,10 @@
 
 Q: Why?
 
-A: Sim Settlements. The vanilla game allocates ~70 MB of memory in which to load script properties. When present, Sim Settlements eats much of that all by itself.
+A: Sim Settlements.
+The vanilla game allocates ~70 MB of memory in which to load script properties.
+When present, Sim Settlements eats much of that all by itself.
+Therefore, any heavily modded game is likely to exceed the vanilla ScrapHeap allocation (and crash).
 
 ## References
 
