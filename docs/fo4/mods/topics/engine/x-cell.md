@@ -1,5 +1,9 @@
 # X-Cell
 
+- improves memeory and thread menagement
+- provides a solution for FaceGen hitching in FO4-NG
+- other fixes
+
 ## Compatibility
 
 Not compatible and/or redundant.
