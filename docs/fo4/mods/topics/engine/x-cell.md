@@ -12,8 +12,8 @@ Not compatible and/or redundant.
 Recommended. X-Cell does not have these features.
 
 - Baka MaxPapyrusOps
-- Community Fixes Merged﻿
-﻿- High FPS Physics Fix
+- Community Fixes Merged
+- High FPS Physics Fix
 - Long Loading Times Fix﻿
 - Sprint Stuttering Fix﻿
 - VATS Freeze Fix
