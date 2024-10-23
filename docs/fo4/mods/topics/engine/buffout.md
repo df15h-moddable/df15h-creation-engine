@@ -18,6 +18,8 @@ Edit `config.toml` or `Buffout4.toml`..
 
 ## Buffout 4 NG
 
+A port of Fudgyduff's source code.
+
 ## References
 
 1. [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) by alandtse @ nexusmods.
