@@ -1,5 +1,38 @@
 # X-Cell
 
+## Compatibility
+
+Not compatible, or redundant.
+
+- Baka ScrapHeap
+- Disk Cahe Enabler
+- Fallout Priority Next-Gen
+- PrivateProfileRedirector F4
+
+Recommended. X-Cell does not have these features.
+
+- Baka MaxPapyrusOps
+- Community Fixes Merged﻿
+﻿- High FPS Physics Fix
+- Long Loading Times Fix﻿
+- Sprint Stuttering Fix﻿
+- VATS Freeze Fix
+
+### Buffout 4 / NG
+
+Buffout's memory management features overlap with X-Cell.
+
+The following Buffout options shuold be disabled ...
+
+```
+[Patches]
+BSTextureStreamerLocalHeap = false
+HavokMemorySystem = false
+MemoryManager = false
+ScaleformAllocator = false
+SmallBlockAllocator = false
+```
+
 ## References
 
 1. [X-Cell](https://www.nexusmods.com/fallout4/mods/84214) by perchik71 @ nexusmods.
