@@ -5,7 +5,7 @@
 Not compatible and/or redundant.
 
 - Baka ScrapHeap
-- Disk Cahe Enabler
+- Disk Cache Enabler
 - Fallout Priority Next-Gen
 - PrivateProfileRedirector F4
 
