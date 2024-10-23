@@ -22,7 +22,7 @@ Recommended. X-Cell does not have these features.
 
 Buffout's memory management features overlap with X-Cell.
 
-The following Buffout options shuold be disabled ...
+The following Buffout options should be disabled ...
 
 ```
 [Patches]
