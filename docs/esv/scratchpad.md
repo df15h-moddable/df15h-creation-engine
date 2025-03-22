@@ -24,3 +24,7 @@
 - https://www.nexusmods.com/fallout4/mods/90433
 - https://www.nexusmods.com/skyrimspecialedition/mods/133220
 - https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/ESLFlagging.md
+- https://fallout4map.com/
+- https://next.nexusmods.com/profile/LarannKiar/mods?gameId=1151
+- https://github.com/powerof3/PhotoMode
+- https://www.nexusmods.com/fallout4/mods/72254
