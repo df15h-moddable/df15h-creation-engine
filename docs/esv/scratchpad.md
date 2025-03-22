@@ -23,3 +23,4 @@
 - https://www.nexusmods.com/skyrimspecialedition/mods/136863
 - https://www.nexusmods.com/fallout4/mods/90433
 - https://www.nexusmods.com/skyrimspecialedition/mods/133220
+- https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/ESLFlagging.md
