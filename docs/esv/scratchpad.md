@@ -28,3 +28,4 @@
 - https://next.nexusmods.com/profile/LarannKiar/mods?gameId=1151
 - https://github.com/powerof3/PhotoMode
 - https://www.nexusmods.com/fallout4/mods/72254
+- https://www.nexusmods.com/fallout4/mods/91140
