@@ -15,3 +15,8 @@
 - https://github.com/morcSkyrim/SkyrimSE/wiki
 - https://github.com/gottyduke/PluginTutorialCN?tab=readme-ov-file
 - https://skyrim.dev/skse/first-plugin
+- https://www.nexusmods.com/skyrimspecialedition/mods/103052
+- https://www.nexusmods.com/skyrimspecialedition/mods/42161
+- https://www.nexusmods.com/skyrimspecialedition/mods/120946
+- https://www.nexusmods.com/skyrimspecialedition/mods/141001
+- https://www.nexusmods.com/fallout4/mods/87907
