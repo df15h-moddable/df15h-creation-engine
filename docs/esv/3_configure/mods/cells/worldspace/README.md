@@ -2,7 +2,6 @@
 
 ### Favorite
 
-- Chanterelle
 - Beyond Skyrim Bruma
 - Darkend
 - Vominheim
@@ -11,6 +10,7 @@
 ### Others
 
 - Beyond Reach
+- Chanterelle
 - Coldhaven
 - Falskaar
 - [Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509)
@@ -18,6 +18,7 @@
 - Midwood Isle
 - [Moonpath To Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)
 - [Northpoint](https://www.nexusmods.com/skyrimspecialedition/mods/45870)
+- [Olenveld](https://www.youtube.com/watch?v=IzuunvY5nmw), yet another Souls-like northern island.
 - [Orsinium](https://www.nexusmods.com/skyrimspecialedition/mods/51629)
 - [Summerset Isle](https://www.nexusmods.com/skyrim/mods/68406)
 - [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180)
@@ -40,7 +41,6 @@
 - [Esroniet: Domain of Lost Unity](https://www.youtube.com/channel/UCV9H5Q6ITaQjWEIB2nB-Sig)
 - [Lordbound](https://www.moddb.com/mods/lordbound), Druadach Valley worldspace towards Highreach; Orcs vs Imperials.
 - [Odyssey of the Dragonborn](https://arcadiamgames.wordpress.com/)
-- [Olenveld](https://www.youtube.com/watch?v=IzuunvY5nmw), yet another Souls-like northern island.
 - [Thras: The Coral Kingdom](https://www.reddit.com/r/ThrasTheCoralKingdom/)
 
 ### Beyond Skyrim
