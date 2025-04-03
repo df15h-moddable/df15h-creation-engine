@@ -20,3 +20,4 @@
 - https://www.youtube.com/watch?v=PZ5nP8mwzDA&list=PLGGw--fFEeZd5HM9shaaANPuXP9zAgmAN
 - https://www.youtube.com/watch?v=1naNojdx0ek&list=PL2g2oK5KhZT0WUOw0Y_8HFudZbgfmcdEl
 - https://github.com/F4CF/Interface/releases
+- https://next.nexusmods.com/profile/Magicockerel?gameId=1151
