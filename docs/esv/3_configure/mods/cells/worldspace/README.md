@@ -36,7 +36,7 @@
 
 ## Unreleased
 
-- [Apotheosis](https://www.youtube.com/watch?v=aemRl5viUzg), extraplanar.
+- [Apotheosis](https://www.moddb.com/mods/apotheosis), extraplanar.
 - [Esroniet: Domain of Lost Unity](https://www.youtube.com/channel/UCV9H5Q6ITaQjWEIB2nB-Sig)
 - [Lordbound](https://www.moddb.com/mods/lordbound), Druadach Valley worldspace towards Highreach; Orcs vs Imperials.
 - [Odyssey of the Dragonborn](https://arcadiamgames.wordpress.com/)
