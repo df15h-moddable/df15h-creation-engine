@@ -19,7 +19,6 @@
 - [Moonpath To Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)
 - [Northpoint](https://www.nexusmods.com/skyrimspecialedition/mods/45870)
 - [Olenveld](https://www.youtube.com/watch?v=IzuunvY5nmw), yet another Souls-like northern island.
-- [Orsinium](https://www.nexusmods.com/skyrimspecialedition/mods/51629)
 - [Summerset Isle](https://www.nexusmods.com/skyrim/mods/68406)
 - [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180)
 
