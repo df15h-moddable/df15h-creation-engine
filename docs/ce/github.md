@@ -24,3 +24,8 @@ Easy to clone ...
 - [VersuchDrei](https://github.com/VersuchDrei)
 - [wrye-bash](https://github.com/wrye-bash)
 - [z-edit](https://github.com/z-edit)
+- https://github.com/Vermunds/Skyrim-CleanSaveAutoReloader
+- https://github.com/shadeMe/Fuz-Ro-D-oh-64
+- [Nukem9](https://github.com/Nukem9)
+- https://github.com/matortheeternal
+- https://github.com/z-edit
