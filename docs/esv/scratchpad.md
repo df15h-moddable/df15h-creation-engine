@@ -29,3 +29,15 @@
 - https://github.com/powerof3/PhotoMode
 - https://www.nexusmods.com/fallout4/mods/72254
 - https://www.nexusmods.com/fallout4/mods/91140
+- https://steamcommunity.com/app/72850/discussions/0/3933271334208563311/
+- https://www.youtube.com/watch?v=0VnJPbppgR4
+- https://www.nexusmods.com/skyrimspecialedition/mods/65201
+- https://www.youtube.com/watch?v=UJHZ03NY-W8
+- https://www.nexusmods.com/skyrimspecialedition/users/45193647?tab=user+files
+- https://www.nexusmods.com/skyrimspecialedition/mods/71371?tab=description
+- https://www.nexusmods.com/skyrimspecialedition/mods/20061?tab=description
+- https://www.reddit.com/r/skyrimmods/comments/sgxxa5/move_objects_from_mod/
+- https://www.creationkit.com/index.php?title=Creation_Kit_Keyboard_Mapping
+- https://github.com/Mutagen-Modding/Synthesis
+- https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=description
+- https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-98-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
