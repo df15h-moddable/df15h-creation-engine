@@ -19,5 +19,4 @@
 - https://www.youtube.com/watch?v=I7yya4Q_MSM
 - https://www.youtube.com/watch?v=PZ5nP8mwzDA&list=PLGGw--fFEeZd5HM9shaaANPuXP9zAgmAN
 - https://www.youtube.com/watch?v=1naNojdx0ek&list=PL2g2oK5KhZT0WUOw0Y_8HFudZbgfmcdEl
-- https://www.nexusmods.com/fallout4/mods/41209
 - https://github.com/F4CF/Interface/releases
