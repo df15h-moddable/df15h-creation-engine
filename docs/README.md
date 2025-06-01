@@ -16,6 +16,7 @@ However, there are subtle differences between each iteration ...
 - es4r : Elder Scrolls IV Oblivion Remastered
 - es5 : Elder Scrolls V Skyrim
 - fo4 : Fallout 4
+- fo4lon : Fallout 4 London
 - sf : Starfield
 
 Creation Engine modding has many facets and many specializations.
