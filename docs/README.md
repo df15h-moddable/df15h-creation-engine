@@ -14,7 +14,7 @@ Core concepts and toolsets are common across all iterations ...
 However, there are subtle differences between each iteration ...
 
 - es4r : Elder Scrolls IV Oblivion Remastered
-- es5 : Elder Scrolls 5 Skyrim
+- es5 : Elder Scrolls V Skyrim
 - fo4 : Fallout 4
 - sf : Starfield
 
