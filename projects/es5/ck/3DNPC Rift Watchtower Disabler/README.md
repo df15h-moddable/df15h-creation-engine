@@ -20,6 +20,6 @@ To my present knowledge there are no other quest progression tie-ins. The unique
 
 Cf the 3DNPC wiki ...
 
-https://3dnpc.com/wiki/interesting-npcs/locations/the-rift/dravos/
-https://3dnpc.com/wiki/interesting-npcs/locations/the-rift/batheru/
-https://3dnpc.com/wiki/interesting-npcs/quests/the-rift/
+- https://3dnpc.com/wiki/interesting-npcs/locations/the-rift/dravos/
+- https://3dnpc.com/wiki/interesting-npcs/locations/the-rift/batheru/
+- https://3dnpc.com/wiki/interesting-npcs/quests/the-rift/
