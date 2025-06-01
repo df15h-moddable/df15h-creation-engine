@@ -1,3 +1,4 @@
+# Creation Engine
 
 - docs : All about Creation Engine modding.
-- projects : Tutorials and my public mods.
+- projects : Tutorials, templates, and my public mods.
