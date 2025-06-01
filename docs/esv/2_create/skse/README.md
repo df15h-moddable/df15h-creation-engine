@@ -20,6 +20,4 @@ SKSE plugins that make foundational improvments.
 
 - [Skyrim Script Extender (SKSE)](https://skse.silverlock.org/) @ silverlock.
 - [skse64](https://github.com/ianpatt/skse64) @ github.
-- [SKSE Plugin Development Tutorial](https://www.youtube.com/watch?v=FLRhsrQ8mqw) by SniffleMan @ youtube.
-- [PluginTutorialCN](https://github.com/gottyduke/PluginTutorialCN) by gottyduke @ github.
-- [Your first SKSE plugin in C++](https://skyrim.dev/skse/first-plugin) @ skyrim.dev.
+
