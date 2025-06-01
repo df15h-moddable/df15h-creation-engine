@@ -16,7 +16,10 @@ SKSE plugins that make foundational improvments.
 - SlavicPotato's [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) @ nexusmods. Unlocks FPS limit. Includes physics fix, borderless fullscreen performance boost, refresh rate control, configurable frame rate limiting, various bug fixes, etc.
 - VersuchDrei's [Scaleform Translation Plus Plus NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359) @ nexusmods. Scaleform is (now defunct) middleware specializing in UI and HUD display. By convention, mods named "NG" are "next generation" iterations by new authors on abandoned mods deemed essential by the community.
 
-## Resources
+## Reference
 
-1. [Skyrim Script Extender (SKSE)](https://skse.silverlock.org/) @ silverlock.
-2. [skse64](https://github.com/ianpatt/skse64) @ github.
+- [Skyrim Script Extender (SKSE)](https://skse.silverlock.org/) @ silverlock.
+- [skse64](https://github.com/ianpatt/skse64) @ github.
+- [SKSE Plugin Development Tutorial](https://www.youtube.com/watch?v=FLRhsrQ8mqw) by SniffleMan @ youtube.
+- [PluginTutorialCN](https://github.com/gottyduke/PluginTutorialCN) by gottyduke @ github.
+- [Your first SKSE plugin in C++](https://skyrim.dev/skse/first-plugin) @ skyrim.dev.
