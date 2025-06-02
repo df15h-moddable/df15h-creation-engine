@@ -10,6 +10,7 @@ Easy to clone ...
 - [alandtse](https://github.com/alandtse)
 - [D7ry](https://github.com/D7ry)
 - [doodlum](https://github.com/doodlum)
+- [ersh1](https://github.com/ersh1)
 - [expired6978](https://github.com/expired6978)
 - [kinggath](https://github.com/kinggath)
 - [loot](https://github.com/loot)
