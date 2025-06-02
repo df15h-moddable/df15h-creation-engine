@@ -1,6 +1,6 @@
 # kryptopyr
 
-kryptopyr authors role-playing systems extensions using Papyrus script.
+Speciality : RPG systems extensions using Papyrus script.
 
 ## About
 

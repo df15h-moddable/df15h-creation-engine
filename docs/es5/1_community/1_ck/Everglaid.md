@@ -6,6 +6,7 @@ Specialty : Animation, HKX (Havoc Physics).
 
 Key work ...
 
+- ES5 : [Assorted Animation Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/93271) @ nexusmods.
 - ES5 : [EVG Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/63232) @ nexusmods.
 - ES5 : [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534) @ nexusmods.
 - ES5 : [EVG CLAMBER - Slope Animations](https://www.nexusmods.com/skyrimspecialedition/mods/114753) @ nexusmods.
