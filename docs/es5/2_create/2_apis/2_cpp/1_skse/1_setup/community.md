@@ -46,7 +46,5 @@ Key tutorials and templates ...
 - [Skyrim Scripting](https://www.youtube.com/SkyrimScripting) by mrowrpurr @ youtube.
 - [Skyrim Scripting](https://github.com/SkyrimScripting) by mrowrpurr @ github.
 - [mrowrpurr](https://discord.com/invite/d96UKrKead) @ discord.
-- [Tutorials](https://www.youtube.com/darkfox127) by Darkfox127 @ youtube.
-- [Start Modding TES Skyrim](https://www.darkfox127.co.uk/) @ darkfox127.co.uk.
 - [SKSE Plugin Development Tutorial](https://www.youtube.com/watch?v=FLRhsrQ8mqw) by SniffleMan @ youtube.
 - [PluginTutorialCN](https://github.com/gottyduke/PluginTutorialCN) by gottyduke @ github.
