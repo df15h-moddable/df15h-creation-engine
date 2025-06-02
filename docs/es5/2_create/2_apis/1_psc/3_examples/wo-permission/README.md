@@ -1,4 +1,6 @@
 
+Examples with non-permissive license.
+
 Examples that ...
 
 - do not explicitly allow redistribution of source.

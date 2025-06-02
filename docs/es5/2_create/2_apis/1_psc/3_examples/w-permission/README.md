@@ -1,0 +1,2 @@
+
+Examples with permissive license.
