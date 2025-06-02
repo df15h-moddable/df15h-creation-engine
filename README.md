@@ -14,6 +14,11 @@ Creation Engine games ...
 - Fallout 76
 - Starfield
 
+
+Q: Is all my material related to these games here?
+
+A: No. Only stuff I would find publicly useful myself, in a logically organized format. Material not matching those criteria is in `df15h-ce-private`.
+
 Q: Are there any modlists or load orders here?
 
 A: No. My configurations are committed to `df15h-ce-private`. But the "Community" sections here list mod authors I find most interesting and reliable (which often corresponds with popular).
