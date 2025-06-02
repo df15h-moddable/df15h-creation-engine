@@ -20,4 +20,4 @@ A: No. My configurations are committed to `df15h-ce-private`. But the "Community
 
 Q: What, no Elder Scrolls III Morrowind, Elder Scrolls IV Oblivion, Fallout 3, or Fallout New Vagas?
 
-A: Those aren't Creation Engine games. They were created with Gamebryo, before Bethesda forked it. But more decisively, I prefer a third-person camera, and apparently Gamebryo wasn't good at that -- so I don't enjoy the older games as much.
+A: On a technicality, those aren't Creation Engine games. They were created with Gamebryo, before Bethesda forked it. But more decisively, I prefer a third-person camera, and apparently old Gamebryo wasn't good (was terrible) at that.
