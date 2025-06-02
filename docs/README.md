@@ -17,6 +17,7 @@ However, there are subtle differences between each iteration ...
 - es5 : Elder Scrolls V Skyrim
 - fo4 : Fallout 4
 - fo4lon : Fallout 4 London
+- fo76 : Fallout 76
 - sf : Starfield
 
 Creation Engine modding has many facets and many specializations.
