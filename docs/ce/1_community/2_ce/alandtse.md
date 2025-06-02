@@ -2,8 +2,7 @@
 
 Focused on VR.
 
-Credited by Ershin on a number of mods.
+Key work ...
 
-## References
-
+- Credited by Ershin on a number of mods.
 - [Merge Mapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) @ nexusmods.
