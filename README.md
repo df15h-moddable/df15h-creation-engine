@@ -17,7 +17,7 @@ Creation Engine games ...
 
 Q: Is all my material related to these games here?
 
-A: No. Only stuff I would find publicly useful myself, in a logically organized format. Material not matching those criteria is in `df15h-ce-private`.
+A: No. Only stuff I would find publicly useful myself, in a logically organized format. Material not matching that intent is in `df15h-ce-private`.
 
 Q: Are there any modlists or load orders here?
 
