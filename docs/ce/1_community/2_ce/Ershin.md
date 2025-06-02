@@ -10,4 +10,5 @@ Key work ...
 - ES5 : [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) @ nexusmods.
 - ES5 : [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) @ nexusmods.
 - ES5 : [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) @ nexusmods.
+- ES5 : Credited on Everglaid's "EVG CLAMBER - Slope Animations".
 - SF : [Luma - Native HDR and More](https://www.nexusmods.com/starfield/mods/4821) @ nexusmods.
