@@ -1,10 +1,13 @@
-# Papyrus
+# APIs
 
-Bethesda's proprietrary scripting language.
+Creation Engine games have two significant APIs ...
 
-!!! See ES5/PSC for more content.
-Since it is by far the most active, I may have more notes there than here.
+- Papyrus (PSC) : Bethesda's proprietary scripting language. Extended by the community (SKSE and others).
+- C++ (CPP) : The language with which the Engine was built. Reverse engineered by the community. Modding facilities provided by SKSE.
 
-## Links
+About console (Playstation, Xbox) APIs ...
 
-- [Papyrus](https://www.creationkit.com/index.php?title=Category:Papyrus) @ creationkit.com
+- Only the vanilla Papyrus API is avaiable.
+- SKSE and C++ are not available.
+- Most Papyrus extensions are NOT available, because those depend on SKSE to bind Papyrus to C++ 
+(just as SKSE does).
