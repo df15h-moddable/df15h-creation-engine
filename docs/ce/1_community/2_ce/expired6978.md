@@ -1,2 +1,2 @@
 
-- A contributor to xSE [common](https://github.com/ianpatt/common).
+- A contributor to Ian Patterson's xSE (all of them).
