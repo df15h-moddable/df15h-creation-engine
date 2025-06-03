@@ -6,4 +6,5 @@ Key resources for tutorials ...
 - mrowrpurr : [Skyrim Scripting](https://www.youtube.com/SkyrimScripting) by mrowrpurr @ youtube.
 - mrowrpurr : [Skyrim Scripting](https://github.com/SkyrimScripting) by mrowrpurr @ github.
 - mrowrpurr : [Mrowr Purr](https://discord.com/invite/d96UKrKead) @ discord.
+- stepmodifications : [Step Modifications](https://stepmodifications.org/) @ stepmodifications.
 
