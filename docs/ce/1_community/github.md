@@ -19,6 +19,7 @@ Easy to clone ...
 - [meh321](https://github.com/meh321)
 - [ModOrganizer2](https://github.com/ModOrganizer2)
 - [niftools](https://github.com/niftools)
+- [nukem9](https://github.com/nukem9)
 - [reg2k](https://github.com/reg2k)
 - [ryobg](https://github.com/ryobg)
 - [shadeMe](https://github.com/shadeMe): [Fuz-Ro-D-oh-64](https://github.com/shadeMe/Fuz-Ro-D-oh-64)
