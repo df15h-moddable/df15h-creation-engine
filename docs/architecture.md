@@ -35,7 +35,6 @@ The key modding tool in this layer is Bethesda's Creation Kit, but there are man
 ## Platform (e.g. `Skyrim.exe`)
 
 The platform is the engine of the game.
-
 This is the C++ layer of the compiled executables. It would be opaque to modders without the efforts of a small community of C++ enthusiasts.
 
 Key "interfaces" created by these C++ enthusiasts are ...
