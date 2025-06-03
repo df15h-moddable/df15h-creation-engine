@@ -29,3 +29,7 @@ There is no conceptual difference between the content of the base game, its DLCs
 - `DLCNukaWorld.esm`
 - `SS2.esm` (kinggath's "Sim Settlements 2" mod)
 - `Eli_RV DC Home.esp` (Elianora's "Outfield Retreat" player home mod)
+
+Modding in this layer could be characterized as "in bounds" -- that is to say, as intended by Bethesda and wholly accomdated by the architecture of the platform.
+The key modding tool in this layer is Bethesda's Creation Kit, but there are also many other community-made tools based ar ound the same principles (plugins, forms)
+-- chief of which is xEdit.
