@@ -7,7 +7,7 @@ From a modder's perspective, Creation Engine games have two main layers ...
 - platform (e.g. `Skyrim.exe`) : C++ executables authored in Microsoft Visual Studio.
 - plugins (e.g. `Skyrim.esm`) : bundles of data ("forms") and assets authored in Bethesda's Creation Kit.
 
-## Plugins
+## Plugins (e.g. `Skyrim.esm`)
 
 There are many variations, but for the sake of conceptual simplicity, the prototypical pattern is ...
 
@@ -30,7 +30,7 @@ Modding in this layer could be characterized as "in bounds" -- that is to say, a
 The key modding tool in this layer is Bethesda's Creation Kit, but there are many other community-made tools based around the same principles (plugins, forms, assets)
 -- chief of which is xEdit.
 
-## Platform
+## Platform (e.g. `Skyrim.exe`)
 
 This is the C++ layer of the compiled executables. It would be opaque to modders without the efforts of a small community of C++ enthusiasts.
 
