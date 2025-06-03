@@ -24,6 +24,7 @@ Easy to clone ...
 - [ryobg](https://github.com/ryobg)
 - [shadeMe](https://github.com/shadeMe): [Fuz-Ro-D-oh-64](https://github.com/shadeMe/Fuz-Ro-D-oh-64)
 - [Starfield Reverse Engineering](https://github.com/Starfield-Reverse-Engineering)
+- [ThirdEyeSqueegee](https://github.com/ThirdEyeSqueegee)
 - [VersuchDrei](https://github.com/VersuchDrei)
 - [wrye-bash](https://github.com/wrye-bash)
 - [z-edit](https://github.com/z-edit)
