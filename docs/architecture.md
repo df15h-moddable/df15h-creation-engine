@@ -10,7 +10,6 @@ From a modder's perspective, Creation Engine games have two main layers ...
 ## Plugins (e.g. `Skyrim.esm`)
 
 Plugins express the content of the game.
-
 There are many variations, but for the sake of conceptual simplicity, the prototypical pattern is ...
 
 - Elder Scrolls Plugin (ESP, `.esp`) : a data file loaded directly by the engine.
