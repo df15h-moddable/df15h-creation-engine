@@ -32,6 +32,13 @@ The key modding tool in this layer is Bethesda's Creation Kit, but there are man
 
 ## Platform
 
+This is the C++ layer of the compiled executables. It would be opaque to modders without the efforts of a small community of C++ enthusiasts.
+
+Key "interfaces" created by these C++ enthusiasts are ...
+
+- xSE : the Script Extender by Ian Patterson, et al. Allows for Papyrus extensions and C++ plugins.
+- ENB : an extensible graphics post-processing pipeline by Boris Vorontsov. Applies all sorts of shader and other special effects.
+
 Modding in this layer could be characterized as "out of bounds".
 Not that Bethesda discourages it, but it is not accomodated by the architecture of the platform.
 Rather it was achieved (with much skill and effort) by reverse engineering Bethesda's compiled executables.
