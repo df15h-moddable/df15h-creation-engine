@@ -1,2 +1,3 @@
 - This is community knowledge, and as such may be used freely.
 - However, I claim copyright to my own presentation and format of this material, which may not be reproduced.
+- I will apply a common license (e.g. Creative Commons) once I am sure of applicability.
