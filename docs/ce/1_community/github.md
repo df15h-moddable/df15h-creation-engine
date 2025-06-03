@@ -5,7 +5,7 @@ Topics ...
 
 - [topics/skse64](https://github.com/topics/skse64) @ github.
 
-Easy to clone ...
+Accounts ...
 
 - [alandtse](https://github.com/alandtse)
 - [D7ry](https://github.com/D7ry)
@@ -23,14 +23,10 @@ Easy to clone ...
 - [nukem9](https://github.com/nukem9)
 - [reg2k](https://github.com/reg2k)
 - [ryobg](https://github.com/ryobg)
-- [shadeMe](https://github.com/shadeMe): [Fuz-Ro-D-oh-64](https://github.com/shadeMe/Fuz-Ro-D-oh-64)
+- [shadeMe](https://github.com/shadeMe)
 - [Starfield Reverse Engineering](https://github.com/Starfield-Reverse-Engineering)
 - [ThirdEyeSqueegee](https://github.com/ThirdEyeSqueegee)
+- [Vermunds](https://github.com/Vermunds)
 - [VersuchDrei](https://github.com/VersuchDrei)
 - [wrye-bash](https://github.com/wrye-bash)
 - [z-edit](https://github.com/z-edit)
-- https://github.com/Vermunds/Skyrim-CleanSaveAutoReloader
-- https://github.com/shadeMe/Fuz-Ro-D-oh-64
-- [Nukem9](https://github.com/Nukem9)
-- https://github.com/matortheeternal
-- https://github.com/z-edit
