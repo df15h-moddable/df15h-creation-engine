@@ -9,6 +9,8 @@ From a modder's perspective, Creation Engine games have two main layers ...
 
 ## Plugins (e.g. `Skyrim.esm`)
 
+Plugins express the content of the game.
+
 There are many variations, but for the sake of conceptual simplicity, the prototypical pattern is ...
 
 - Elder Scrolls Plugin (ESP, `.esp`) : a data file loaded directly by the engine.
@@ -31,6 +33,8 @@ The key modding tool in this layer is Bethesda's Creation Kit, but there are man
 -- chief of which is xEdit.
 
 ## Platform (e.g. `Skyrim.exe`)
+
+The platform is the engine of the game.
 
 This is the C++ layer of the compiled executables. It would be opaque to modders without the efforts of a small community of C++ enthusiasts.
 
