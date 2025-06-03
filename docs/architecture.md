@@ -21,4 +21,4 @@ There are many variations, but for the sake of conceptual simplicity, the protot
 Yes, the plugins in Fallout and Starfield are also called ESPs (or ESMs, ESLs, etc).
 
 - plugin : Contains "form" data that describes everything about the world -- actors, ai packages, armors, cells (interior, exterior), outfits, quests, weapons, etc.
-- archive :  Contains assets that more tangibly realize the objects described in the plugin -- audio, meshes, textures, etc -- and compiled Papyrus scripts.
+- archive :  Contains assets that more tangibly realize the objects described in the plugin -- animations, audio, meshes, textures, etc -- and compiled Papyrus scripts.
