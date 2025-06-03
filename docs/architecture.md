@@ -4,8 +4,8 @@ An overview of the basics, for orientation.
 
 From a modder's perspective, Creation Engine games have two main layers ...
 
-- platform aka engine (e.g. `Skyrim.exe`) : C++ executables authored in Microsoft Visual Studio.
-- plugins aka content (e.g. `Skyrim.esm`) : bundles of data ("forms") and assets authored in Bethesda's Creation Kit.
+- platform (e.g. `Skyrim.exe`) aka engine : C++ executables authored in Microsoft Visual Studio.
+- plugins (e.g. `Skyrim.esm`) aka content : bundles of data ("forms") and assets authored in Bethesda's Creation Kit.
 
 ## Plugins (e.g. `Skyrim.esm`)
 
