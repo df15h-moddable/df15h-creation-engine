@@ -27,5 +27,5 @@ There is no conceptual difference between the content of the base game, its DLCs
 
 - `Fallout4.esm` (an ESP flagged "master")
 - `DLCNukaWorld.esm`
-- `SS2.esm` (kinggath's "Sim Settlements" 2 mod)
+- `SS2.esm` (kinggath's "Sim Settlements 2" mod)
 - `Eli_RV DC Home.esp` (Elianora's "Outfield Retreat" player home mod)
