@@ -1,0 +1,2 @@
+- This is community knowledge, and as such may be used freely.
+- However, I claim copyright to my own presentation and format of this material, which may not be reproduced.
