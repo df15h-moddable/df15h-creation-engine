@@ -16,7 +16,7 @@ From a modder's perspective, Creation Engine games have two main layers ...
 There are many variations, but for the sake of conceptual simplicity, the prototypical pattern is ...
 
 - Elder Scrolls Plugin (ESP, `.esp`) : a data file loaded directly by the engine.
-- Bethesda Software Archive (BSA, `.bsa`) : an asset file loaded indirectly via a plugin reference.
+- Bethesda Software Archive (BSA, `.bsa`) : an asset file loaded indirectly via reference by a plugin.
 
 Yes, the plugins in Fallout and Starfield games are also called ESPs (or ESMs, ESLs, etc).
 
