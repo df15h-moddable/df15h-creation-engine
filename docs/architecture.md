@@ -7,10 +7,6 @@ From a modder's perspective, Creation Engine games have two main layers ...
 - platform (e.g. `Skyrim.exe`) : C++ executables authored in Microsoft Visual Studio.
 - plugins (e.g. `Skyrim.esm`) : bundles of data ("forms") and assets authored in Bethesda's Creation Kit.
 
-## Platform
-
-...
-
 ## Plugins
 
 There are many variations, but for the sake of conceptual simplicity, the prototypical pattern is ...
@@ -31,5 +27,11 @@ There is no conceptual difference between the content of the base game, its DLCs
 - `Eli_RV DC Home.esp` (Elianora's "Outfield Retreat" player home mod)
 
 Modding in this layer could be characterized as "in bounds" -- that is to say, as intended by Bethesda and wholly accomdated by the architecture of the platform.
-The key modding tool in this layer is Bethesda's Creation Kit, but there are also many other community-made tools based around the same principles (plugins, forms, assets)
+The key modding tool in this layer is Bethesda's Creation Kit, but there are many other community-made tools based around the same principles (plugins, forms, assets)
 -- chief of which is xEdit.
+
+## Platform
+
+Modding in this layer could be characterized as "out of bounds".
+Not that Bethesda discourages it, but it is not accomodated by the architecture of the platform.
+Rather it was achieved (with much skill and effort) by reverse engineering Bethesda's compiled executables.
