@@ -43,8 +43,10 @@ Key tutorials and templates ...
 
 - [SKSE Plugin Development](https://ck.uesp.net/wiki/Category:SKSE_Plugin_Development) @ ck.uesp.
 - [Your first SKSE plugin in C++](https://skyrim.dev/skse/first-plugin) @ skyrim.dev.
-- [Skyrim Scripting](https://www.youtube.com/SkyrimScripting) by mrowrpurr @ youtube.
-- [Skyrim Scripting](https://github.com/SkyrimScripting) by mrowrpurr @ github.
-- [mrowrpurr](https://discord.com/invite/d96UKrKead) @ discord.
-- [SKSE Plugin Development Tutorial](https://www.youtube.com/watch?v=FLRhsrQ8mqw) by SniffleMan @ youtube.
-- [PluginTutorialCN](https://github.com/gottyduke/PluginTutorialCN) by gottyduke @ github.
+- gottyduke : [PluginTutorialCN](https://github.com/gottyduke/PluginTutorialCN) @ github.
+- mrowrpurr : [Skyrim Scripting](https://www.youtube.com/SkyrimScripting) @ youtube.
+- mrowrpurr : [Skyrim Scripting](https://github.com/SkyrimScripting) @ github.
+- mrowrpurr : [mrowrpurr](https://discord.com/invite/d96UKrKead) @ discord.
+- NoahBoddie : [Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176) @ nexusmods.
+- SniffleMan : [SKSE Plugin Development Tutorial](https://www.youtube.com/watch?v=FLRhsrQ8mqw) @ youtube.
+- Supertron : [SKSE Dev Environment Setup (Automated)](https://www.nexusmods.com/skyrimspecialedition/mods/154240) @ nexusmods.

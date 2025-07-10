@@ -8,3 +8,4 @@
 - uesp : [Category: Papyrus](https://ck.uesp.net/wiki/Category:Papyrus) @ uesp.
 - uesp : [Category: Papyrus_Language_Reference](https://ck.uesp.net/wiki/Category:Papyrus_Language_Reference) @ uesp.
 - uesp : [Category: Script_Objects](https://ck.uesp.net/wiki/Category:Script_Objects) @ uesp.
+- ElysTabby : [Papyrus Script Reference - Modular Structures and Optimization](https://www.nexusmods.com/skyrimspecialedition/mods/153647) @ nexusmods.
