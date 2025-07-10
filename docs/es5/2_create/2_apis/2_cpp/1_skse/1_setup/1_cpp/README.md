@@ -12,6 +12,10 @@ In other words ...
 
 1. Understand how SKSE developers use Microsoft Visual Studio, including artifacts such as `.sln` files.
 2. Use vcpkg to manage project dependencies (e.g. CommonLibSSE-NG).
-3. Use CMake or MSBuild to build projects.
+3. Use CMake or MSBuild (or Gradle or Xmake, etc) to build projects.
 4. Use Microsoft Visual C++, GNU Compiler Collection (aka GCC), or Clang to compile projects.
 5. Use Microsoft Visual Studio, Microsoft Visual Studio Code, or JetBrains CLion to author and manage projects.
+
+## Reference
+
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) by fffaraz @ github.
